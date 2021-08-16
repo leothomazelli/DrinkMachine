@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HSur68tD9T9E5YIXa9gB1TkI/0Nhs1gDmocoez5ndiz+yhr+Go5930hHgOkJ/EHJtptSlXxJd2YKkp/sUCHrHA==",
+  "dgSpecHash": "ARDF31B9obUmxqf8WESlcP7Rj2MIKdQdalvQcnK4EEhEJH1m9FWuS1Nhxc2HRa4xXZMuq2xyHQkMQIXyuMnZJw==",
   "success": true,
-  "projectFilePath": "E:\\RDI - Intern Test\\C#\\DrinkMachine\\Models\\Models.csproj",
+  "projectFilePath": "D:\\VSCode Projects\\DrinkMachine\\C#\\DrinkMachine\\Models\\Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\RDI - Intern Test\\C#\\DrinkMachine\\Models\\Models.csproj": {}
+    "D:\\VSCode Projects\\DrinkMachine\\C#\\DrinkMachine\\Models\\Models.csproj": {}
   },
   "projects": {
-    "E:\\RDI - Intern Test\\C#\\DrinkMachine\\Models\\Models.csproj": {
+    "D:\\VSCode Projects\\DrinkMachine\\C#\\DrinkMachine\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\RDI - Intern Test\\C#\\DrinkMachine\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\VSCode Projects\\DrinkMachine\\C#\\DrinkMachine\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "E:\\RDI - Intern Test\\C#\\DrinkMachine\\Models\\Models.csproj",
+        "projectPath": "D:\\VSCode Projects\\DrinkMachine\\C#\\DrinkMachine\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "E:\\RDI - Intern Test\\C#\\DrinkMachine\\Models\\obj\\",
+        "outputPath": "D:\\VSCode Projects\\DrinkMachine\\C#\\DrinkMachine\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
