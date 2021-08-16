@@ -1,5 +1,7 @@
 # DrinkMachine
 
+O projeto refere-se à uma máquina de bebidas de um restaurante Fast-Food, programada com base nas regras de negócio listadas abaixo:
+
 - Os sabores de bebida foram armazenados na classe DrinkType dentro de Models para que fossem salvos somente os sabores/tipos fornecidos.
 - O design foi feito de uma forma em que a pessoa só consegue avançar após selecionar as opções já disponibilizadas. 
 - Requisitos como tipo de tampa e tipo de copo e quantidade de gelo propostos no desafio são selecionados automaticamente no pedido com base nas requisições feitas no teste.
