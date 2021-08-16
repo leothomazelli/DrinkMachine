@@ -1,0 +1,39 @@
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.exe
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.deps.json
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.runtimeconfig.json
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.runtimeconfig.dev.json
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.dll
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.pdb
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csprojAssemblyReference.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.drinkMachineScreen.resources
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.Properties.Resources.resources
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csproj.GenerateResource.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.AssemblyInfoInputs.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.AssemblyInfo.cs
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csproj.CoreCompileInputs.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.dll
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.pdb
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.genruntimeconfig.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\Models.dll
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csproj.CopyComplete
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.exe
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.deps.json
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.runtimeconfig.json
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.runtimeconfig.dev.json
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.dll
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\DrinkMachine.pdb
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\Models.dll
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\bin\Debug\netcoreapp3.1\Models.pdb
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.drinkMachineScreen.resources
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.Properties.Resources.resources
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csproj.GenerateResource.cache
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.AssemblyInfoInputs.cache
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.AssemblyInfo.cs
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csproj.CoreCompileInputs.cache
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csproj.CopyComplete
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.dll
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.pdb
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.genruntimeconfig.cache
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.csproj.AssemblyReference.cache
+E:\RDI - Intern Test\C#\DrinkMachine\DrinkMachine\obj\Debug\netcoreapp3.1\DrinkMachine.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,19 @@
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\Thiago\Google Drive\Desenvolvimentos\Projetos Estudo\Projetos Visual Studio\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.pdb
+E:\RDI - Intern Test\C#\DrinkMachine\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\RDI - Intern Test\C#\DrinkMachine\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\RDI - Intern Test\C#\DrinkMachine\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\RDI - Intern Test\C#\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\RDI - Intern Test\C#\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\RDI - Intern Test\C#\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\RDI - Intern Test\C#\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\RDI - Intern Test\C#\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.pdb
+E:\RDI - Intern Test\C#\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+E:\RDI - Intern Test\C#\DrinkMachine\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
